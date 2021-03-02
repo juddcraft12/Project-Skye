@@ -1,4 +1,4 @@
 # This is Project-Skye
 # Credits:
-TachoSheel for the base project (https://github.com/Tacosheel/AeroProxy-OLD)<br/>
-Titanium Network (https://github.com/titaniumnetwork-dev)
+<li>TachoSheel for the base project (https://github.com/Tacosheel/AeroProxy-OLD)<br/>
+<li>Titanium Network (https://github.com/titaniumnetwork-dev)
